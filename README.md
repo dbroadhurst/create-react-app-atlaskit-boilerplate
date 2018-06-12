@@ -1,4 +1,4 @@
-# create-react-app-redux-router-saga-boilerplate - filling the gaps for non-trival apps
+# create-react-app-atlas-boilerplate - filling the gaps for non-trival atlas apps
 
 create-react-app is great but even a basic app needs more than a component renderer. Simple boilerplate to fill the gaps.
 
@@ -7,7 +7,7 @@ create-react-app +
 - redux - https://redux.js.org/docs/introduction/
 - react-router - https://reacttraining.com/react-router/
 - saga - https://redux-saga.js.org/docs/introduction/
-- material-ui - http://www.material-ui.com/#/
+- atlas - https://atlaskit.atlassian.com/packages
 - storybook - https://storybook.js.org/
 - .env - https://medium.com/@tacomanator/environments-with-create-react-app-7b645312c09d
 
